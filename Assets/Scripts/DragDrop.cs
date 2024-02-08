@@ -17,7 +17,9 @@ public class DragDrop : MonoBehaviour
     public Color targetColor = Color.green;
     public GameObject spriteToAppear;
     public GameObject sprite1;
-   
+    
+
+
 
 
     private void Start()
@@ -50,6 +52,7 @@ public class DragDrop : MonoBehaviour
             if (hitCollider.CompareTag("SpriteLocation1"))
             {
                 sprite1.SetActive(true);
+                
             }
 
       
@@ -60,6 +63,7 @@ public class DragDrop : MonoBehaviour
         {
             IsLocked = true;
             objectToDrag.transform.position = ObjectDragToPos.transform.position;
+            
 
             // Button reached the target location
             gameObject.SetActive(false); // Hide the button
@@ -67,10 +71,14 @@ public class DragDrop : MonoBehaviour
 
             // Make the sprite appear
             spriteToAppear.SetActive(true);
+
+            
         }
         else
         {
             objectToDrag.transform.position = objectInitPos;
+           
+            
         }
 
         
