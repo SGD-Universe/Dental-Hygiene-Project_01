@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class DragDrop : MonoBehaviour
+
 {
     private RectTransform rectTransform;
     Vector2 objectInitPos;
@@ -18,6 +19,8 @@ public class DragDrop : MonoBehaviour
     public GameObject spriteToAppear;
     public GameObject sprite1;
     
+    
+
 
 
 
@@ -81,7 +84,11 @@ public class DragDrop : MonoBehaviour
             
         }
 
-        
+       
+
+
     }
+
+  
 
 }
