@@ -18,6 +18,9 @@ public class DragDrop : MonoBehaviour
     public Color targetColor = Color.green;
     public GameObject spriteToAppear;
     public GameObject sprite1;
+    public AudioSource source;
+    public AudioClip correct;
+    public AudioClip incorrect;
     
     
 
@@ -64,6 +67,8 @@ public class DragDrop : MonoBehaviour
 
         if (Distance < DropDistance)
         {
+            source.clip = correct;
+            source.Play();
             IsLocked = true;
             objectToDrag.transform.position = ObjectDragToPos.transform.position;
             
@@ -76,10 +81,14 @@ public class DragDrop : MonoBehaviour
             spriteToAppear.SetActive(true);
 
             
+
+            
         }
         else
         {
             objectToDrag.transform.position = objectInitPos;
+            source.clip = incorrect;
+            source.Play();
            
             
         }

@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: bcdf18c3cfa229b4aaeb1be655dc5c68
   - enabled: 1
-    path: Assets/Scenes/TrainingScene_002.unity
-    guid: e7611400e0115614797a115c108feb01
+    path: Assets/Scenes/TrainingScene_003_timerImplemented.unity
+    guid: 103e3977d25312a4abd89d2f97a7ba72
   - enabled: 1
     path: Assets/Scenes/TestingScene_006.unity
     guid: 8b55e9143a4ec1c4d89f2dfb3ccdb082
