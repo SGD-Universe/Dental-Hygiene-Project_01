@@ -24,7 +24,9 @@ public class CountdownTimer : MonoBehaviour
 
     void Update()
     {
+        //ensures that the countdown timer accurately reflects the passage of time, decrements at a consistent rate.
         remainingTime -= Time.deltaTime;
+        //calculates the number of minutes remaining in the countdown timer.
         int minutes = Mathf.FloorToInt(remainingTime / 60);
         int seconds = Mathf.FloorToInt(remainingTime % 60);
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds); // Display the time as an integer
@@ -42,6 +44,7 @@ public class CountdownTimer : MonoBehaviour
 
     string FormatTime(float timeInSeconds)
     {
+        //calculates the number of minutes remaining in the countdown timer.
         int minutes = Mathf.FloorToInt(timeInSeconds / 60);
         int seconds = Mathf.FloorToInt(timeInSeconds % 60);
         return string.Format("{0:00}:{1:00}", minutes, seconds);

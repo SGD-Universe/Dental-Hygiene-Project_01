@@ -7,6 +7,7 @@ public class LevelManager : MonoBehaviour
 {
     public AudioSource backgroundMusic;
 
+    //triggers the playback of the background music.
     public void PlayBackgroundMusic()
     {
         backgroundMusic.Play();
