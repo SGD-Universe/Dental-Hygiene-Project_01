@@ -38,36 +38,36 @@ Other:
 The following needs to be done:
 
 1. App Name:
-   * [ ] Change name of app to: The Panoramic Learning App
+   * [x] Change name of app to: The Panoramic Learning App
       
-3. Guide Scene:
-   * [ ] Highlight the selected button
-   * [ ] Insert heading over each image
+2. Guide Scene:
+   * [x] Highlight the selected button
+   * [x] Insert heading over each image
 
-4. Learn Scene:
+3. Learn Scene:
    * [ ] Make it possible to drag from entire area of a button
    * [ ] De-highlight dropdown button when hovering over its terms
 
-5. Shorten the text on each button with the following abbreviations:
-   * [ ] Left -> L
-   * [ ] Right -> R
-   * [ ] Anterior -> Ant
+4. Shorten the text on each button with the following abbreviations:
+   * [x] Left -> L
+   * [x] Right -> R
+   * [x] Anterior -> Ant
 
-6. Scrollbar:
+5. Scrollbar:
    * [ ] Able to scroll over entire button list
    * [ ] Fix empty space issue
 
-7. Buttons:
+6. Buttons:
    * [ ] Make all text the same size
-   * [ ] Place text on two lines
+   * [x] Place text on two lines
 
-8. * [ ] Add button animations
+7. * [ ] Add button animations
 
-9. * [ ] Create theme supporting sprites for the homescreen buttons
+8. * [ ] Create theme supporting sprites for the homescreen buttons
 
-10. * [ ] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
+9. * [ ] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
 
-11. * [ ] Consider if WebGL or a Unity Executable file is better to run app
+10. * [ ] Consider if WebGL or a Unity Executable file is better to run app
 
 * List anything else that you can get done to improve the app's functionality (optional)
 
