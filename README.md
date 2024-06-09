@@ -45,8 +45,8 @@ The following needs to be done:
    * [x] Insert heading over each image
 
 3. Learn Scene:
-   * [ ] Make it possible to drag from entire area of a button
-   * [ ] De-highlight dropdown button when hovering over its terms
+   * [x] Make it possible to drag from entire area of a button
+   * [x] De-highlight dropdown button when hovering over its terms
 
 4. Shorten the text on each button with the following abbreviations:
    * [x] Left -> L
@@ -55,17 +55,17 @@ The following needs to be done:
 
 5. Scrollbar:
    * [ ] Able to scroll over entire button list
-   * [ ] Fix empty space issue
+   * [x] Fix empty space issue
 
 6. Buttons:
-   * [ ] Make all text the same size
+   * [x] Make all text the same size
    * [x] Place text on two lines
 
 7. * [ ] Add button animations
 
 8. * [ ] Create theme supporting sprites for the homescreen buttons
 
-9. * [ ] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
+9. * [x] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
 
 10. * [ ] Consider if WebGL or a Unity Executable file is better to run app
 
