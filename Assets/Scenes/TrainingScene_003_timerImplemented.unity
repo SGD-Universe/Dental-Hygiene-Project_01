@@ -329,6 +329,7 @@ MonoBehaviour:
   source: {fileID: 3347163}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &3347166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1014,6 +1015,7 @@ MonoBehaviour:
   source: {fileID: 29627398}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &29627401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1524,6 +1526,7 @@ MonoBehaviour:
   source: {fileID: 43601205}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &43601208
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2344,6 +2347,7 @@ MonoBehaviour:
   source: {fileID: 83174706}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &83174709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2632,6 +2636,7 @@ MonoBehaviour:
   source: {fileID: 85379199}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &85379202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2813,7 +2818,7 @@ GameObject:
   - component: {fileID: 91395058}
   - component: {fileID: 91395060}
   - component: {fileID: 91395059}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2889,7 +2894,7 @@ GameObject:
   - component: {fileID: 116142391}
   - component: {fileID: 116142390}
   - component: {fileID: 116142389}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Scroll View
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3325,6 +3330,7 @@ MonoBehaviour:
   source: {fileID: 130232636}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &130232639
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3789,6 +3795,7 @@ MonoBehaviour:
   source: {fileID: 140962057}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &140962060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4425,6 +4432,7 @@ MonoBehaviour:
   source: {fileID: 163175041}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &163175044
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5065,6 +5073,7 @@ MonoBehaviour:
   source: {fileID: 189706077}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &189706080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5964,7 +5973,7 @@ GameObject:
   - component: {fileID: 222428630}
   - component: {fileID: 222428629}
   - component: {fileID: 222428628}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: AirSpacesButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6306,6 +6315,7 @@ MonoBehaviour:
   source: {fileID: 229117970}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &229117973
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6728,6 +6738,7 @@ MonoBehaviour:
   source: {fileID: 235062171}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &235062174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7104,6 +7115,7 @@ MonoBehaviour:
   source: {fileID: 246932620}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &246932623
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7702,6 +7714,7 @@ MonoBehaviour:
   source: {fileID: 262945732}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &262945735
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8078,6 +8091,7 @@ MonoBehaviour:
   source: {fileID: 278682902}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &278682905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8634,6 +8648,7 @@ MonoBehaviour:
   source: {fileID: 295674151}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &295674154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9010,6 +9025,7 @@ MonoBehaviour:
   source: {fileID: 303000040}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &303000043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9566,6 +9582,7 @@ MonoBehaviour:
   source: {fileID: 313452441}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &313452444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9660,7 +9677,7 @@ GameObject:
   - component: {fileID: 314951783}
   - component: {fileID: 314951782}
   - component: {fileID: 314951781}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Scroll View
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10052,7 +10069,7 @@ GameObject:
   - component: {fileID: 338613484}
   - component: {fileID: 338613486}
   - component: {fileID: 338613485}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10272,7 +10289,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 364823849}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Sliding Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10815,6 +10832,7 @@ MonoBehaviour:
   source: {fileID: 417749717}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &417749720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11103,6 +11121,7 @@ MonoBehaviour:
   source: {fileID: 422561897}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &422561900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11330,7 +11349,7 @@ GameObject:
   - component: {fileID: 427500123}
   - component: {fileID: 427500124}
   - component: {fileID: 427500125}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11600,6 +11619,7 @@ MonoBehaviour:
   source: {fileID: 439202670}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &439202673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12223,7 +12243,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 478881820}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12461,6 +12481,7 @@ MonoBehaviour:
   source: {fileID: 486873458}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &486873461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12819,6 +12840,7 @@ MonoBehaviour:
   source: {fileID: 488780606}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &488780609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13329,6 +13351,7 @@ MonoBehaviour:
   source: {fileID: 513858631}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &513858634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13559,7 +13582,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 1
+  orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -14241,6 +14264,7 @@ MonoBehaviour:
   source: {fileID: 570358295}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &570358298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14826,6 +14850,7 @@ MonoBehaviour:
   source: {fileID: 581835800}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &581835803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15273,7 +15298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 610528474}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: DropdownPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15595,6 +15620,7 @@ MonoBehaviour:
   source: {fileID: 613144007}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &613144010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16059,6 +16085,7 @@ MonoBehaviour:
   source: {fileID: 633450660}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &633450663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16347,6 +16374,7 @@ MonoBehaviour:
   source: {fileID: 637314757}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &637314760
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16442,7 +16470,7 @@ GameObject:
   - component: {fileID: 638074126}
   - component: {fileID: 638074125}
   - component: {fileID: 638074124}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: MandibleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16993,6 +17021,7 @@ MonoBehaviour:
   source: {fileID: 642494597}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &642494600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17281,6 +17310,7 @@ MonoBehaviour:
   source: {fileID: 656716634}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &656716637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17657,6 +17687,7 @@ MonoBehaviour:
   source: {fileID: 673953362}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &673953365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17945,6 +17976,7 @@ MonoBehaviour:
   source: {fileID: 676248124}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &676248127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18455,6 +18487,7 @@ MonoBehaviour:
   source: {fileID: 694433315}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &694433318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18743,6 +18776,7 @@ MonoBehaviour:
   source: {fileID: 695508658}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &695508661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19031,6 +19065,7 @@ MonoBehaviour:
   source: {fileID: 698191340}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &698191343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19319,6 +19354,7 @@ MonoBehaviour:
   source: {fileID: 712511272}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &712511275
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19695,6 +19731,7 @@ MonoBehaviour:
   source: {fileID: 723209085}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &723209088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19983,6 +20020,7 @@ MonoBehaviour:
   source: {fileID: 731280824}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &731280827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20271,6 +20309,7 @@ MonoBehaviour:
   source: {fileID: 736436647}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &736436650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20364,7 +20403,7 @@ GameObject:
   - component: {fileID: 738337591}
   - component: {fileID: 738337593}
   - component: {fileID: 738337592}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20772,7 +20811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 769142275}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21127,6 +21166,7 @@ MonoBehaviour:
   source: {fileID: 776432961}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &776432964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21549,6 +21589,7 @@ MonoBehaviour:
   source: {fileID: 799381734}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &799381737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21837,6 +21878,7 @@ MonoBehaviour:
   source: {fileID: 800402574}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &800402577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21919,6 +21961,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 800402572}
   m_CullTransparentMesh: 1
+--- !u!4 &801478666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  m_PrefabInstance: {fileID: 1564645805}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &804070626
 GameObject:
   m_ObjectHideFlags: 0
@@ -22481,6 +22528,7 @@ MonoBehaviour:
   source: {fileID: 816860345}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &816860348
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22991,6 +23039,7 @@ MonoBehaviour:
   source: {fileID: 842046542}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &842046545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24150,7 +24199,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 883876341}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: DropdownPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24518,6 +24567,7 @@ MonoBehaviour:
   source: {fileID: 905213702}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &905213705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24783,6 +24833,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 801478666}
   - {fileID: 986748024}
   - {fileID: 528861175}
   - {fileID: 1928142685}
@@ -26043,6 +26094,7 @@ MonoBehaviour:
   source: {fileID: 1009050049}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1009050052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26465,6 +26517,7 @@ MonoBehaviour:
   source: {fileID: 1026373119}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1026373122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26887,6 +26940,7 @@ MonoBehaviour:
   source: {fileID: 1043141361}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1043141364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27606,6 +27660,7 @@ MonoBehaviour:
   source: {fileID: 1065504676}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1065504679
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28652,6 +28707,7 @@ MonoBehaviour:
   source: {fileID: 1110611411}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1110611414
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28922,7 +28978,7 @@ GameObject:
   - component: {fileID: 1115641818}
   - component: {fileID: 1115641817}
   - component: {fileID: 1115641816}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29452,7 +29508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1165686705}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: DropdownPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29579,7 +29635,7 @@ GameObject:
   - component: {fileID: 1173672814}
   - component: {fileID: 1173672813}
   - component: {fileID: 1173672812}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Scroll View
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29969,6 +30025,7 @@ MonoBehaviour:
   source: {fileID: 1185594725}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1185594728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30345,6 +30402,7 @@ MonoBehaviour:
   source: {fileID: 1196384825}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1196384828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30439,7 +30497,7 @@ GameObject:
   - component: {fileID: 1198459104}
   - component: {fileID: 1198459103}
   - component: {fileID: 1198459102}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Scrollbar Vertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30847,6 +30905,7 @@ MonoBehaviour:
   source: {fileID: 1213382244}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1213382247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32153,6 +32212,7 @@ MonoBehaviour:
   source: {fileID: 1259381650}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1259381653
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32993,7 +33053,7 @@ RectTransform:
   m_GameObject: {fileID: 1321454605}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.62320846, y: 0.8471718, z: 0.7790085}
+  m_LocalScale: {x: 0.62320846, y: 0.84717184, z: 0.7790085}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1011171949}
@@ -33001,7 +33061,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00019454956, y: 21.587036}
+  m_AnchoredPosition: {x: -0.00019836426, y: 21.586975}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!82 &1321454607
@@ -33168,6 +33228,7 @@ MonoBehaviour:
   source: {fileID: 1321454607}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1321454610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33946,6 +34007,7 @@ MonoBehaviour:
   source: {fileID: 1349899948}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1349899951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34322,6 +34384,7 @@ MonoBehaviour:
   source: {fileID: 1379947418}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1379947421
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34744,6 +34807,7 @@ MonoBehaviour:
   source: {fileID: 1384672684}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1384672687
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35254,6 +35318,7 @@ MonoBehaviour:
   source: {fileID: 1388029482}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1388029485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35436,7 +35501,7 @@ GameObject:
   - component: {fileID: 1395406606}
   - component: {fileID: 1395406605}
   - component: {fileID: 1395406604}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Scrollbar Vertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35697,7 +35762,7 @@ GameObject:
   - component: {fileID: 1404922298}
   - component: {fileID: 1404922297}
   - component: {fileID: 1404922296}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: MaxillaButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35842,7 +35907,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1420121618}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36237,6 +36302,7 @@ MonoBehaviour:
   source: {fileID: 1427068196}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1427068199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36593,6 +36659,7 @@ MonoBehaviour:
   source: {fileID: 1441101606}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1441101609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36881,6 +36948,7 @@ MonoBehaviour:
   source: {fileID: 1445957988}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1445957991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37169,6 +37237,7 @@ MonoBehaviour:
   source: {fileID: 1448567034}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1448567037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37262,7 +37331,7 @@ GameObject:
   - component: {fileID: 1465578957}
   - component: {fileID: 1465578959}
   - component: {fileID: 1465578958}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37702,6 +37771,7 @@ MonoBehaviour:
   source: {fileID: 1472066288}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1472066291
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38500,6 +38570,7 @@ MonoBehaviour:
   source: {fileID: 1540212502}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1540212505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39098,6 +39169,7 @@ MonoBehaviour:
   source: {fileID: 1556795000}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1556795003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39520,6 +39592,7 @@ MonoBehaviour:
   source: {fileID: 1561876355}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1561876358
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39602,6 +39675,87 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1561876353}
   m_CullTransparentMesh: 1
+--- !u!1001 &1564645805
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 926066796}
+    m_Modifications:
+    - target: {fileID: 1029488615197376354, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1029488615197376354, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1029488615197376354, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: InitialModule.gravitySource
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_Name
+      value: Confetti
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.9376538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.9376538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.9376538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -63
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8630628535430304607, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!1 &1586082671
 GameObject:
   m_ObjectHideFlags: 0
@@ -39942,6 +40096,7 @@ MonoBehaviour:
   source: {fileID: 1604503588}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1604503591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40230,6 +40385,7 @@ MonoBehaviour:
   source: {fileID: 1615060480}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1615060483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40694,6 +40850,7 @@ MonoBehaviour:
   source: {fileID: 1631419998}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1631420001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41691,6 +41848,7 @@ MonoBehaviour:
   source: {fileID: 1675932702}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1675932705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42469,6 +42627,7 @@ MonoBehaviour:
   source: {fileID: 1699986899}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1699986902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42757,6 +42916,7 @@ MonoBehaviour:
   source: {fileID: 1700496902}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1700496905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43676,6 +43836,7 @@ MonoBehaviour:
   source: {fileID: 1727029592}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1727029595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44188,6 +44349,7 @@ MonoBehaviour:
   source: {fileID: 1741111109}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1741111112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44476,6 +44638,7 @@ MonoBehaviour:
   source: {fileID: 1742661205}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1742661208
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44764,6 +44927,7 @@ MonoBehaviour:
   source: {fileID: 1743895824}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1743895827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45454,6 +45618,7 @@ MonoBehaviour:
   source: {fileID: 1777141859}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1777141862
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45742,6 +45907,7 @@ MonoBehaviour:
   source: {fileID: 1784055228}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1784055231
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46030,6 +46196,7 @@ MonoBehaviour:
   source: {fileID: 1784498969}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1784498972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46494,6 +46661,7 @@ MonoBehaviour:
   source: {fileID: 1795359338}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1795359341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46587,7 +46755,7 @@ GameObject:
   - component: {fileID: 1800739921}
   - component: {fileID: 1800739922}
   - component: {fileID: 1800739923}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46945,6 +47113,7 @@ MonoBehaviour:
   source: {fileID: 1806350064}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1806350067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47233,6 +47402,7 @@ MonoBehaviour:
   source: {fileID: 1806563683}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1806563686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47521,6 +47691,7 @@ MonoBehaviour:
   source: {fileID: 1819379377}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1819379380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47614,7 +47785,7 @@ GameObject:
   - component: {fileID: 1823194399}
   - component: {fileID: 1823194401}
   - component: {fileID: 1823194400}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47943,6 +48114,7 @@ MonoBehaviour:
   source: {fileID: 1823722123}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1823722126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48231,6 +48403,7 @@ MonoBehaviour:
   source: {fileID: 1823859817}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1823859820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48519,6 +48692,7 @@ MonoBehaviour:
   source: {fileID: 1827653167}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1827653170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49029,6 +49203,7 @@ MonoBehaviour:
   source: {fileID: 1837190120}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1837190123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49736,6 +49911,7 @@ MonoBehaviour:
   source: {fileID: 1861734332}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1861734335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50024,6 +50200,7 @@ MonoBehaviour:
   source: {fileID: 1864257822}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1864257825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50312,6 +50489,7 @@ MonoBehaviour:
   source: {fileID: 1866985377}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1866985380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50600,6 +50778,7 @@ MonoBehaviour:
   source: {fileID: 1871670907}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1871670910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51022,6 +51201,7 @@ MonoBehaviour:
   source: {fileID: 1877142147}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1877142150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51486,6 +51666,7 @@ MonoBehaviour:
   source: {fileID: 1889919340}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1889919343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51774,6 +51955,7 @@ MonoBehaviour:
   source: {fileID: 1892313768}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1892313771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52135,7 +52317,7 @@ GameObject:
   - component: {fileID: 1905046719}
   - component: {fileID: 1905046721}
   - component: {fileID: 1905046720}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52552,6 +52734,7 @@ MonoBehaviour:
   source: {fileID: 1911738978}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1911738981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53108,6 +53291,7 @@ MonoBehaviour:
   source: {fileID: 1927797792}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &1927797795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53685,7 +53869,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1967106754}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Sliding Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54734,6 +54918,7 @@ MonoBehaviour:
   source: {fileID: 2018981911}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &2018981914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55646,6 +55831,7 @@ MonoBehaviour:
   source: {fileID: 2053569103}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &2053569106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55934,6 +56120,7 @@ MonoBehaviour:
   source: {fileID: 2057510696}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &2057510699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56444,6 +56631,7 @@ MonoBehaviour:
   source: {fileID: 2127069086}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &2127069089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56820,6 +57008,7 @@ MonoBehaviour:
   source: {fileID: 2136126129}
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
 --- !u!114 &2136126132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56914,7 +57103,7 @@ GameObject:
   - component: {fileID: 2140421071}
   - component: {fileID: 2140421070}
   - component: {fileID: 2140421069}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
