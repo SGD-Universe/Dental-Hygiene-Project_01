@@ -1,5 +1,5 @@
 * Work-Based Learning - The Panoramic Learning App
-* The Panoramic Learning App is an educational game aimed at teaching people the anatomy of the mouth.
+* The Panoramic Learning App is an educational game aimed at teaching students the anatomy of the mouth.
 * Submitted by: Jaleel Jaaber
 * Time spent: Roughly 16 weeks
 
@@ -54,20 +54,18 @@ The following needs to be done:
    * [x] Anterior -> Ant
 
 5. Scrollbar:
-   * [ ] Able to scroll over entire button list
+   * [x] Able to scroll over entire button list
    * [x] Fix empty space issue
 
 6. Buttons:
    * [x] Make all text the same size
    * [x] Place text on two lines
 
-7. * [ ] Add button animations
+7. * [x] Add button animations
 
-8. * [ ] Create theme supporting sprites for the homescreen buttons
+8. * [x] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
 
-9. * [x] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
-
-10. * [ ] Consider if WebGL or a Unity Executable file is better to run app
+9. * [ ] Consider if WebGL or a Unity Executable file is better to run app
 
 * List anything else that you can get done to improve the app's functionality (optional)
 
