@@ -61,6 +61,7 @@ The following needs to be done:
    * [x] Make all text the same size
    * [x] Place text on two lines
 
+
 7. * [x] Add button animations
 
 8. * [x] Fix image of radiograph in the practice scene (unsqueeze/make clearer)
