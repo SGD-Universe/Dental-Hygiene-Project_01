@@ -5,11 +5,19 @@ using UnityEngine.UI;
 
 public class ShowHideImage : MonoBehaviour
 {
-    public Image imageToToggle;
+    public GameObject[] guideImages;
 
-    public void ToggleImageVisibility()
+    public void ToggleImageVisibility(int index)
     {
-        imageToToggle.gameObject.SetActive(!imageToToggle.gameObject.activeSelf);
+        foreach (GameObject obj in guideImages)
+        {
+            obj.SetActive(false);
+        }
+
+        if (index >= 0 && index < guideImages.Length)
+        {
+            guideImages[index].SetActive(true);
+        }
     }
     
 }

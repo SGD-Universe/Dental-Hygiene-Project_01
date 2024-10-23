@@ -1,14 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using TMPro;
 
-public class DragDrop : MonoBehaviour
 
+public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     private RectTransform rectTransform;
-    Vector2 objectInitPos;
+    Vector2 objectInitLocalPos;
+    int objectInitSiblingIndex;
     public GameObject objectToDrag;
     public GameObject ObjectDragToPos;
     public bool IsLocked;
@@ -21,92 +23,101 @@ public class DragDrop : MonoBehaviour
     public AudioSource source;
     public AudioClip correct;
     public AudioClip incorrect;
-    
-    
-
-
-
-
+    public static int correctDropCount = 0; // Static count of correctly placed buttons
+    public int totalDropsRequired = 10; // Ensure this is set to your desired value
+    public IGameTimer gameTimer; // Reference to the common timer interface
 
     private void Start()
     {
-        //stores the initial position of the GameObject
-        objectInitPos = objectToDrag.transform.position;
-        //fetches the RectTransform component attached to the same GameObject
+        correctDropCount = 0;
+
+        objectInitLocalPos = objectToDrag.GetComponent<RectTransform>().localPosition;
+        objectInitSiblingIndex = objectToDrag.transform.GetSiblingIndex();
         rectTransform = GetComponent<RectTransform>();
-        //fetches the Canvas component from the parent hierarchy of the GameObject where the script is attached and assigns it to a variable for further use
         canvas = GetComponentInParent<Canvas>();
+
+        // Automatically find the GameTimer component in the scene if not assigned
+        if (gameTimer == null)
+        {
+            gameTimer = FindObjectOfType<CountdownTimer>() as IGameTimer ?? FindObjectOfType<TimerController>() as IGameTimer;
+        }
     }
 
-    public void DragObject()
+    public void OnBeginDrag(PointerEventData eventData)
     {
-        //sets the position of the GameObject to the current position of the mouse cursor on the screen
+        objectToDrag.transform.SetAsLastSibling();
+    }
+
+    public void OnDrag(PointerEventData eventData)
+    {
         if (!IsLocked)
         {
             objectToDrag.transform.position = Input.mousePosition;
         }
+    }
 
-      
+    public void OnEndDrag(PointerEventData eventData)
+    {
+        DropObject();
     }
 
     public void DropObject()
     {
-        //assigns the current position of the mouse cursor to the mousePosition variable, allowing you to use this variable to work with the mouse position in your script.
         Vector3 mousePosition = Input.mousePosition;
-        //convert mouse positions from screen space to world space
         mousePosition.z = canvas.planeDistance;
-        // convert positions from screen space (such as mouse positions) to world space, allowing you to interact with objects in the scene based on their world positions.
         Vector3 worldPosition = Camera.main.ScreenToWorldPoint(mousePosition);
-        //detects collisions at a specific point in 2D world space.
         Collider2D hitCollider = Physics2D.OverlapPoint(worldPosition);
 
         if (hitCollider != null && (hitCollider.CompareTag("SpriteLocation1") || hitCollider.CompareTag("SpriteLocation2")))
         {
-            // Button dropped on sprite location, make the sprites appear
             if (hitCollider.CompareTag("SpriteLocation1"))
             {
                 sprite1.SetActive(true);
-                
             }
-
-      
         }
+
         float Distance = Vector3.Distance(objectToDrag.transform.position, ObjectDragToPos.transform.position);
 
-        //controls the behavior of the dragged object when it is close enough to its target position, locking it in place and snapping it to the target position.
-        if (Distance < DropDistance)
+        if (Distance < DropDistance && !IsLocked)
         {
             source.clip = correct;
             source.Play();
             IsLocked = true;
             objectToDrag.transform.position = ObjectDragToPos.transform.position;
-            
-
-            // Button reached the target location
-            gameObject.SetActive(false); // Hide the button
-            targetLocation.GetComponent<Image>().color = targetColor; // Change target color
-
-            // Make the sprite appear
+            spriteToAppear.GetComponent<Image>().color = targetColor;
             spriteToAppear.SetActive(true);
+            correctDropCount++;
 
-            
+            if (correctDropCount >= totalDropsRequired)
+            {
+                gameTimer.GameOver();
+            }
 
-            
+            StartCoroutine(PlayAudioAndDeactivate());
         }
-        else
+        else if (!IsLocked)
         {
-            objectToDrag.transform.position = objectInitPos;
             source.clip = incorrect;
             source.Play();
-           
-            
+            objectToDrag.transform.SetAsFirstSibling();
         }
-
-       
-
-
     }
 
-  
+    IEnumerator PlayAudioAndDeactivate()
+    {
+        objectToDrag.GetComponent<Image>().enabled = false;
+        objectToDrag.GetComponent<Button>().enabled = false;
+        TMP_Text buttonText = objectToDrag.GetComponentInChildren<TMP_Text>();
+        if (buttonText != null)
+        {
+            buttonText.enabled = false;
+        }
+
+        yield return new WaitWhile(() => source.isPlaying);
+
+        gameObject.SetActive(false);
+    }
 
 }
+
+
