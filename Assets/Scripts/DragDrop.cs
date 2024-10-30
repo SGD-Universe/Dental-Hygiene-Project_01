@@ -26,7 +26,6 @@ public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     public int totalDropsRequired = 10; // Ensure this is set to your desired value
     public IGameTimer gameTimer; // Reference to the common timer interface
     public GameObject Confettiprefab;
-    public Vector3 fixedParticlePosition = new Vector3(2065, 530, 194); // Define the fixed position
 
     private void Start()
     {
@@ -87,13 +86,9 @@ public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
             spriteToAppear.SetActive(true);
             correctDropCount++;
 
-            // Adjust the particle effect's position and size
-            Vector3 particlePosition = new Vector3(ObjectDragToPos.transform.position.x, ObjectDragToPos.transform.position.y, -1);
-            Quaternion particleRotation = Quaternion.Euler(0, -90, 0);
-            GameObject confetti = Instantiate(Confettiprefab, particlePosition, particleRotation);
+      
+            Instantiate(Confettiprefab, ObjectDragToPos.transform.position, Quaternion.identity);
 
-            // Ensure correct scale
-            //confetti.transform.localScale = new Vector3(20, 20, 20); // Adjust as needed
 
             if (correctDropCount >= totalDropsRequired)
             {

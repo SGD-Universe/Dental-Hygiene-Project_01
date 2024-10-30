@@ -330,7 +330,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &4257634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -620,7 +621,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &5016572
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -910,7 +912,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &7563453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2388,7 +2391,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &60803352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2812,7 +2816,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &67648153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3400,7 +3405,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &107590072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3778,7 +3784,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &126164519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4260,7 +4267,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &134653206
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4684,7 +4692,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &162484807
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5230,7 +5239,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &180541001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5616,7 +5626,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &187304718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6286,7 +6297,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &217317922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6710,7 +6722,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &235222159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7000,7 +7013,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &240394578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7925,7 +7939,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &285950905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8215,7 +8230,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &292730116
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8675,7 +8691,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &312841132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9267,7 +9284,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &318957907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9777,7 +9795,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1613125, y: 0.7674445}
   m_AnchorMax: {x: 0.35214588, y: 0.83500004}
-  m_AnchoredPosition: {x: -356.25287, y: 354.19788}
+  m_AnchoredPosition: {x: -376, y: 354.19788}
   m_SizeDelta: {x: 180.3168, y: 43.204468}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &371606893
@@ -10394,7 +10412,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &421742203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11174,7 +11193,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &431570674
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11498,7 +11518,7 @@ RectTransform:
   m_GameObject: {fileID: 441841020}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2361801, y: 1.1238, z: 1.1238}
+  m_LocalScale: {x: 1.7305285, y: 1.1238, z: 1.1238}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1035416903}
@@ -11537,7 +11557,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -145.25766, y: -3.1701}
+  m_AnchoredPosition: {x: -504, y: -3.1701}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &443744335
@@ -11820,7 +11840,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -156, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &479360102
@@ -12373,7 +12393,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &484575175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13016,7 +13037,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &503985158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13306,7 +13328,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &504885462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14346,7 +14369,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &539164295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14806,7 +14830,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &543347562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15720,7 +15745,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &557556694
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16232,7 +16258,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &572563698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16522,7 +16549,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &580635764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16861,7 +16889,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &595239332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18041,7 +18070,7 @@ RectTransform:
   m_GameObject: {fileID: 695299503}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.845797, y: 2.12515, z: 3.6253004}
+  m_LocalScale: {x: 5.334407, y: 2.12515, z: 3.6253004}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1282919844}
@@ -18051,7 +18080,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.16029629}
   m_AnchorMax: {x: 0.39439586, y: 0.66377777}
-  m_AnchoredPosition: {x: 81, y: 42.95346}
+  m_AnchoredPosition: {x: -93.649994, y: 42.95346}
   m_SizeDelta: {x: -504.03006, y: -391.58005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &718496292
@@ -18395,7 +18424,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &722538444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18685,7 +18715,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &722752911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18975,7 +19006,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &725022961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19663,7 +19695,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &743952175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20087,7 +20120,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &768931915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20867,7 +20901,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &791680552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21291,7 +21326,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &825679282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21581,7 +21617,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &829506743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22358,7 +22395,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &856612991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23456,7 +23494,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &894915860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23880,7 +23919,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &912727307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23988,7 +24028,7 @@ RectTransform:
   m_GameObject: {fileID: 913170028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.845797, y: 2.12515, z: 3.6253004}
+  m_LocalScale: {x: 5.334407, y: 2.12515, z: 3.6253004}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1626631864}
@@ -23998,7 +24038,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.16029629}
   m_AnchorMax: {x: 0.39439586, y: 0.66377777}
-  m_AnchoredPosition: {x: -17.99997, y: -197.40503}
+  m_AnchoredPosition: {x: -183.98996, y: -197.40503}
   m_SizeDelta: {x: -504.03006, y: -391.64047}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &914953169
@@ -24342,7 +24382,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &921124335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24632,7 +24673,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &925115492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25010,7 +25052,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &928393412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25252,7 +25295,7 @@ RectTransform:
   m_GameObject: {fileID: 938317349}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2361801, y: 1.1238, z: 1.1238}
+  m_LocalScale: {x: 1.7305285, y: 1.1238, z: 1.1238}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 940341713}
@@ -25265,7 +25308,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -145.25766, y: -3.1701}
+  m_AnchoredPosition: {x: -504, y: -3.1701}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &940341712
@@ -25785,7 +25828,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &956363188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26657,7 +26701,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &974182581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27265,7 +27310,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &981892235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27555,7 +27601,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &990500578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27845,7 +27892,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &998996249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28935,7 +28983,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1058428766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29358,7 +29407,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1078777772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29648,7 +29698,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1081015282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30198,7 +30249,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1100210665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30523,7 +30575,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1122077699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30901,7 +30954,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1128373017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31671,7 +31725,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1159902625
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32391,7 +32446,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1179047309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32681,7 +32737,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1180383795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32971,7 +33028,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1181577955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34952,7 +35010,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1276189950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36827,7 +36886,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1351833595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37117,7 +37177,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1355280965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37407,7 +37468,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1376553012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37518,7 +37580,7 @@ RectTransform:
   m_GameObject: {fileID: 1377731313}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.9347, y: 3.9347, z: 3.9347}
+  m_LocalScale: {x: 3.5904925, y: 3.9347, z: 3.9347}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1780910657}
@@ -37527,7 +37589,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.68785185}
   m_AnchorMax: {x: 0.40689585, y: 0.7952223}
-  m_AnchoredPosition: {x: -465.2991, y: 116.70633}
+  m_AnchoredPosition: {x: -478, y: 116.70634}
   m_SizeDelta: {x: 127.69916, y: 19.223038}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1377731316
@@ -38009,7 +38071,7 @@ RectTransform:
   m_GameObject: {fileID: 1391414992}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.9347, y: 3.9347, z: 3.9347}
+  m_LocalScale: {x: 3.5904925, y: 3.9347, z: 3.9347}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 545758638}
@@ -38018,7 +38080,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.68785185}
   m_AnchorMax: {x: 0.40689585, y: 0.7952223}
-  m_AnchoredPosition: {x: -465.2991, y: 233.20636}
+  m_AnchoredPosition: {x: -478, y: 233.20636}
   m_SizeDelta: {x: 127.69916, y: 19.223038}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1391414995
@@ -38372,7 +38434,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1418490489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39160,7 +39223,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1440773605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39806,7 +39870,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1457470492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40096,7 +40161,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1459049469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40386,7 +40452,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1470427144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40676,7 +40743,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1471443343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41092,7 +41160,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1488164941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41478,7 +41547,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1488480314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41906,7 +41976,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1507040875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42878,7 +42949,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1552824784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43949,7 +44021,7 @@ RectTransform:
   m_GameObject: {fileID: 1592373974}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2361801, y: 1.1238, z: 1.1238}
+  m_LocalScale: {x: 1.7305285, y: 1.1238, z: 1.1238}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2132398564}
@@ -43993,7 +44065,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.53318745, y: 0.46300003}
   m_AnchorMax: {x: 0.9393542, y: 0.6028148}
-  m_AnchoredPosition: {x: -598.88763, y: -27.428001}
+  m_AnchoredPosition: {x: -957.62, y: -27.428001}
   m_SizeDelta: {x: -680, y: -51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1595951606
@@ -44203,7 +44275,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1595951611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44493,7 +44566,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1597483827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44783,7 +44857,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1601172458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45529,7 +45604,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1632759570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45996,7 +46072,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1663871037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46286,7 +46363,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1664382926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46576,7 +46654,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1665449695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47233,7 +47312,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1680723418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47657,7 +47737,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1693496665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48688,7 +48769,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1712267507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48978,7 +49060,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1713711196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49268,7 +49351,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1726374765
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49816,7 +49900,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1740923651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50106,7 +50191,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1743631415
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50658,7 +50744,7 @@ RectTransform:
   m_GameObject: {fileID: 1764638828}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.845797, y: 2.12515, z: 3.6253004}
+  m_LocalScale: {x: 5.334407, y: 2.12515, z: 3.6253004}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 968951025}
@@ -50668,7 +50754,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.16029629}
   m_AnchorMax: {x: 0.39439586, y: 0.66377777}
-  m_AnchoredPosition: {x: -17.99997, y: -224.21979}
+  m_AnchoredPosition: {x: -183.98996, y: -224.21979}
   m_SizeDelta: {x: -504.03006, y: -391.53976}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1772610245
@@ -50953,7 +51039,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1775919544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51645,7 +51732,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1784903303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52023,7 +52111,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1805466222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52933,7 +53022,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1842489326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53132,7 +53222,7 @@ RectTransform:
   m_GameObject: {fileID: 1872322758}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.9347, y: 3.9347, z: 3.9347}
+  m_LocalScale: {x: 3.5904925, y: 3.9347, z: 3.9347}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1590620575}
@@ -53141,7 +53231,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.34540746}
   m_AnchorMax: {x: 0.40689585, y: 0.45100003}
-  m_AnchoredPosition: {x: -465.2991, y: -98.760315}
+  m_AnchoredPosition: {x: -478, y: -98.760315}
   m_SizeDelta: {x: 127.69916, y: 19.480751}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1872322761
@@ -53278,7 +53368,7 @@ RectTransform:
   m_GameObject: {fileID: 1877490430}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.9347, y: 3.9347, z: 3.9347}
+  m_LocalScale: {x: 3.5904925, y: 3.9347, z: 3.9347}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 740978690}
@@ -53287,7 +53377,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.46300003}
   m_AnchorMax: {x: 0.40689585, y: 0.5767408}
-  m_AnchoredPosition: {x: -465.2991, y: 14.973022}
+  m_AnchoredPosition: {x: -478, y: 14.973022}
   m_SizeDelta: {x: 127.69916, y: 18.46595}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1877490433
@@ -53603,7 +53693,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1879421108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54203,7 +54294,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1909627444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54796,7 +54888,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1916973719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55086,7 +55179,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1922978929
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55643,7 +55737,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &1937041176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57591,7 +57686,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2025357697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57787,7 +57883,7 @@ RectTransform:
   m_GameObject: {fileID: 2026704627}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.845797, y: 2.12515, z: 3.6253004}
+  m_LocalScale: {x: 5.334407, y: 2.12515, z: 3.6253004}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1085216228}
@@ -57797,7 +57893,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08068751, y: 0.16029629}
   m_AnchorMax: {x: 0.39439586, y: 0.66377777}
-  m_AnchoredPosition: {x: 20, y: 25.60785}
+  m_AnchoredPosition: {x: -149.31003, y: 25.60785}
   m_SizeDelta: {x: -504.03006, y: -391.58005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2030455772
@@ -58141,7 +58237,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2030595890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58469,7 +58566,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2048692410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58989,7 +59087,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2055545270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59806,7 +59905,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2089660526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60096,7 +60196,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2093004469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60520,7 +60621,8 @@ MonoBehaviour:
   correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
   incorrect: {fileID: 8300000, guid: a54171845ecfcd246b54691a5efe8fbc, type: 3}
   totalDropsRequired: 102
-  countdownTimer: {fileID: 538275893}
+  Confettiprefab: {fileID: 7380363719852011476, guid: 69fbb68d137d12c4cb307d16e7491176, type: 3}
+  fixedParticlePosition: {x: 1914, y: 434, z: 194}
 --- !u!114 &2105526035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60852,14 +60954,14 @@ RectTransform:
   m_GameObject: {fileID: 2125794869}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2361801, y: 1.1238, z: 1.1238}
+  m_LocalScale: {x: 1.7611703, y: 1.1238, z: 1.1238}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 485413877}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5467709, y: 0.17622222}
   m_AnchorMax: {x: 0.9393542, y: 0.82100004}
-  m_AnchoredPosition: {x: -40, y: -1.7825012}
+  m_AnchoredPosition: {x: -169, y: -1.7825012}
   m_SizeDelta: {x: -1.9299011, y: -12.407288}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2125794871
@@ -61013,7 +61115,7 @@ RectTransform:
   m_GameObject: {fileID: 2135296943}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2361801, y: 1.1238, z: 1.1238}
+  m_LocalScale: {x: 1.7305285, y: 1.1238, z: 1.1238}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 840254678}
@@ -61052,7 +61154,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -145.25766, y: -3.1701}
+  m_AnchoredPosition: {x: -504, y: -3.1701}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2144838608
