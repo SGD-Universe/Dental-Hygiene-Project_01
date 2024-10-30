@@ -5,7 +5,6 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using TMPro;
 
-
 public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     private RectTransform rectTransform;
@@ -26,17 +25,17 @@ public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     public static int correctDropCount = 0; // Static count of correctly placed buttons
     public int totalDropsRequired = 10; // Ensure this is set to your desired value
     public IGameTimer gameTimer; // Reference to the common timer interface
+    public GameObject Confettiprefab;
+    public Vector3 fixedParticlePosition = new Vector3(2065, 530, 194); // Define the fixed position
 
     private void Start()
     {
         correctDropCount = 0;
-
         objectInitLocalPos = objectToDrag.GetComponent<RectTransform>().localPosition;
         objectInitSiblingIndex = objectToDrag.transform.GetSiblingIndex();
         rectTransform = GetComponent<RectTransform>();
         canvas = GetComponentInParent<Canvas>();
 
-        // Automatically find the GameTimer component in the scene if not assigned
         if (gameTimer == null)
         {
             gameTimer = FindObjectOfType<CountdownTimer>() as IGameTimer ?? FindObjectOfType<TimerController>() as IGameTimer;
@@ -88,6 +87,14 @@ public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
             spriteToAppear.SetActive(true);
             correctDropCount++;
 
+            // Adjust the particle effect's position and size
+            Vector3 particlePosition = new Vector3(ObjectDragToPos.transform.position.x, ObjectDragToPos.transform.position.y, -1);
+            Quaternion particleRotation = Quaternion.Euler(0, -90, 0);
+            GameObject confetti = Instantiate(Confettiprefab, particlePosition, particleRotation);
+
+            // Ensure correct scale
+            confetti.transform.localScale = new Vector3(43, 43, 43); // Adjust as needed
+
             if (correctDropCount >= totalDropsRequired)
             {
                 gameTimer.GameOver();
@@ -117,7 +124,4 @@ public class DragDrop : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
 
         gameObject.SetActive(false);
     }
-
 }
-
-

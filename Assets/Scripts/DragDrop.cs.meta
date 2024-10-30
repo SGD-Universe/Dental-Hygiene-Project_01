@@ -3,7 +3,16 @@ guid: 7776f74d89dd7ab4f9829281b7058148
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - objectToDrag: {instanceID: 0}
+  - ObjectDragToPos: {instanceID: 0}
+  - targetLocation: {instanceID: 0}
+  - spriteToAppear: {instanceID: 0}
+  - sprite1: {instanceID: 0}
+  - source: {instanceID: 0}
+  - correct: {instanceID: 0}
+  - incorrect: {instanceID: 0}
+  - Confettiprefab: {instanceID: 0}
   executionOrder: 100
   icon: {instanceID: 0}
   userData: 
