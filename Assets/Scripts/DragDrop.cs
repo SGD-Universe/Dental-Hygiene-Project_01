@@ -21,6 +21,7 @@ public class DragDrop : MonoBehaviour
     public AudioSource source;
     public AudioClip correct;
     public AudioClip incorrect;
+    public GameObject Confettiprefab;
     
     
 
@@ -80,7 +81,6 @@ public class DragDrop : MonoBehaviour
             source.Play();
             IsLocked = true;
             objectToDrag.transform.position = ObjectDragToPos.transform.position;
-            
 
             // Button reached the target location
             gameObject.SetActive(false); // Hide the button
@@ -89,9 +89,10 @@ public class DragDrop : MonoBehaviour
             // Make the sprite appear
             spriteToAppear.SetActive(true);
 
-            
+            // Instantiate and play the particle effect
+            Instantiate(Confettiprefab, ObjectDragToPos.transform.position, Quaternion.identity);
 
-            
+
         }
         else
         {
