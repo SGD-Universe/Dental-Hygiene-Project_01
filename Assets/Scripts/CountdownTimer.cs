@@ -13,7 +13,7 @@ public class CountdownTimer : MonoBehaviour,IGameTimer
     [SerializeField] float remainingTime;
     private bool isPaused = false;
     public GameObject timesUpMenu;
-    public GameObject gameOverPanel; // Add this for the game over panel
+    public GameObject gameOverPanel; 
 
     void Start()
     {
